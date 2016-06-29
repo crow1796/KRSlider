@@ -1,0 +1,16 @@
+{
+    "name": "joshua/kr-slider",
+    "description": "Customizable Slider",
+    "authors": [
+        {
+            "name": "Joshua Tundag",
+            "email": "joshuatundag@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    		"psr-4": {
+                "KRSlider\\": "packages/KRSlider/src"
+    		}
+    }
+}
